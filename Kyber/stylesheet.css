@@ -1,0 +1,24 @@
+main{
+    color: rgb(253, 253, 102) ;
+}
+
+h3{
+    color: rgb(35, 215, 243) ;
+}
+
+p{
+    color: gold ;
+}
+.crystalTypes{
+    margin: 0;
+    padding: 0.2 rem;
+    background-color: rgb(61, 24, 24);
+    font: 1rem 'Fira Sans', sans-serif;
+    border: 5px solid black;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    width: 450px;
+    text-align: center;
+}
